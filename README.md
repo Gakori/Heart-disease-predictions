@@ -38,10 +38,10 @@
 * ML Algorithms, Random Forest, SVM
 
 ## Results 
- KNN - 87%
- SVM - 83%
- Decision trees - 79%
- Random forest - 84%
+* KNN - 87%
+* SVM - 83%
+* Decision trees - 79%
+* Random forest - 84%
 
 ## CONTACT INFORMATION
  For email reach us through faithgakori506@gmail.com
